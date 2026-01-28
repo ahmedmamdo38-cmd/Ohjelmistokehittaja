@@ -1,0 +1,14 @@
+C:\Users\ahmed\source2\Ohjelmistokehittäjänä toimiminen - K26\C-Sharp Lumoaketamia\C-Sharp perustehtäviä\C-Sharp perustehtäviä\bin\Debug\net10.0\C-Sharp perustehtäviä.exe
+C:\Users\ahmed\source2\Ohjelmistokehittäjänä toimiminen - K26\C-Sharp Lumoaketamia\C-Sharp perustehtäviä\C-Sharp perustehtäviä\bin\Debug\net10.0\C-Sharp perustehtäviä.deps.json
+C:\Users\ahmed\source2\Ohjelmistokehittäjänä toimiminen - K26\C-Sharp Lumoaketamia\C-Sharp perustehtäviä\C-Sharp perustehtäviä\bin\Debug\net10.0\C-Sharp perustehtäviä.runtimeconfig.json
+C:\Users\ahmed\source2\Ohjelmistokehittäjänä toimiminen - K26\C-Sharp Lumoaketamia\C-Sharp perustehtäviä\C-Sharp perustehtäviä\bin\Debug\net10.0\C-Sharp perustehtäviä.dll
+C:\Users\ahmed\source2\Ohjelmistokehittäjänä toimiminen - K26\C-Sharp Lumoaketamia\C-Sharp perustehtäviä\C-Sharp perustehtäviä\bin\Debug\net10.0\C-Sharp perustehtäviä.pdb
+C:\Users\ahmed\source2\Ohjelmistokehittäjänä toimiminen - K26\C-Sharp Lumoaketamia\C-Sharp perustehtäviä\C-Sharp perustehtäviä\obj\Debug\net10.0\C-Sharp perustehtäviä.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\source2\Ohjelmistokehittäjänä toimiminen - K26\C-Sharp Lumoaketamia\C-Sharp perustehtäviä\C-Sharp perustehtäviä\obj\Debug\net10.0\C-Sharp perustehtäviä.AssemblyInfoInputs.cache
+C:\Users\ahmed\source2\Ohjelmistokehittäjänä toimiminen - K26\C-Sharp Lumoaketamia\C-Sharp perustehtäviä\C-Sharp perustehtäviä\obj\Debug\net10.0\C-Sharp perustehtäviä.AssemblyInfo.cs
+C:\Users\ahmed\source2\Ohjelmistokehittäjänä toimiminen - K26\C-Sharp Lumoaketamia\C-Sharp perustehtäviä\C-Sharp perustehtäviä\obj\Debug\net10.0\C-Sharp perustehtäviä.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source2\Ohjelmistokehittäjänä toimiminen - K26\C-Sharp Lumoaketamia\C-Sharp perustehtäviä\C-Sharp perustehtäviä\obj\Debug\net10.0\C-Sharp perustehtäviä.dll
+C:\Users\ahmed\source2\Ohjelmistokehittäjänä toimiminen - K26\C-Sharp Lumoaketamia\C-Sharp perustehtäviä\C-Sharp perustehtäviä\obj\Debug\net10.0\refint\C-Sharp perustehtäviä.dll
+C:\Users\ahmed\source2\Ohjelmistokehittäjänä toimiminen - K26\C-Sharp Lumoaketamia\C-Sharp perustehtäviä\C-Sharp perustehtäviä\obj\Debug\net10.0\C-Sharp perustehtäviä.pdb
+C:\Users\ahmed\source2\Ohjelmistokehittäjänä toimiminen - K26\C-Sharp Lumoaketamia\C-Sharp perustehtäviä\C-Sharp perustehtäviä\obj\Debug\net10.0\C-Sharp perustehtäviä.genruntimeconfig.cache
+C:\Users\ahmed\source2\Ohjelmistokehittäjänä toimiminen - K26\C-Sharp Lumoaketamia\C-Sharp perustehtäviä\C-Sharp perustehtäviä\obj\Debug\net10.0\ref\C-Sharp perustehtäviä.dll
