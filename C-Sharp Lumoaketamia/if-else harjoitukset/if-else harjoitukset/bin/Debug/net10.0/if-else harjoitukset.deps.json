@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "if-else harjoitukset/1.0.0": {
+        "runtime": {
+          "if-else harjoitukset.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "if-else harjoitukset/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

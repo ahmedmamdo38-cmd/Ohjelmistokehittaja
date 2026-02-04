@@ -1,0 +1,15 @@
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\if-else harjoitukset\if-else harjoitukset\bin\Debug\net10.0\if-else harjoitukset.exe
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\if-else harjoitukset\if-else harjoitukset\bin\Debug\net10.0\if-else harjoitukset.deps.json
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\if-else harjoitukset\if-else harjoitukset\bin\Debug\net10.0\if-else harjoitukset.runtimeconfig.json
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\if-else harjoitukset\if-else harjoitukset\bin\Debug\net10.0\if-else harjoitukset.dll
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\if-else harjoitukset\if-else harjoitukset\bin\Debug\net10.0\if-else harjoitukset.pdb
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\if-else harjoitukset\if-else harjoitukset\obj\Debug\net10.0\if-else harjoitukset.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\if-else harjoitukset\if-else harjoitukset\obj\Debug\net10.0\if-else harjoitukset.AssemblyInfoInputs.cache
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\if-else harjoitukset\if-else harjoitukset\obj\Debug\net10.0\if-else harjoitukset.AssemblyInfo.cs
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\if-else harjoitukset\if-else harjoitukset\obj\Debug\net10.0\if-else harjoitukset.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\if-else harjoitukset\if-else harjoitukset\obj\Debug\net10.0\if-else harjoitukset.sourcelink.json
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\if-else harjoitukset\if-else harjoitukset\obj\Debug\net10.0\if-else harjoitukset.dll
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\if-else harjoitukset\if-else harjoitukset\obj\Debug\net10.0\refint\if-else harjoitukset.dll
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\if-else harjoitukset\if-else harjoitukset\obj\Debug\net10.0\if-else harjoitukset.pdb
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\if-else harjoitukset\if-else harjoitukset\obj\Debug\net10.0\if-else harjoitukset.genruntimeconfig.cache
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\if-else harjoitukset\if-else harjoitukset\obj\Debug\net10.0\ref\if-else harjoitukset.dll
