@@ -1,0 +1,17 @@
+C:\Users\ahmed.mamdo\source\repos\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\seitsemäsProjekti\seitsemäsProjekti\bin\Debug\net6.0-windows\seitsemäsProjekti.exe
+C:\Users\ahmed.mamdo\source\repos\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\seitsemäsProjekti\seitsemäsProjekti\bin\Debug\net6.0-windows\seitsemäsProjekti.deps.json
+C:\Users\ahmed.mamdo\source\repos\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\seitsemäsProjekti\seitsemäsProjekti\bin\Debug\net6.0-windows\seitsemäsProjekti.runtimeconfig.json
+C:\Users\ahmed.mamdo\source\repos\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\seitsemäsProjekti\seitsemäsProjekti\bin\Debug\net6.0-windows\seitsemäsProjekti.dll
+C:\Users\ahmed.mamdo\source\repos\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\seitsemäsProjekti\seitsemäsProjekti\bin\Debug\net6.0-windows\seitsemäsProjekti.pdb
+C:\Users\ahmed.mamdo\source\repos\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\seitsemäsProjekti\seitsemäsProjekti\obj\Debug\net6.0-windows\seitsemäsProjekti.csproj.AssemblyReference.cache
+C:\Users\ahmed.mamdo\source\repos\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\seitsemäsProjekti\seitsemäsProjekti\obj\Debug\net6.0-windows\seitsemäsProjekti.Form1.resources
+C:\Users\ahmed.mamdo\source\repos\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\seitsemäsProjekti\seitsemäsProjekti\obj\Debug\net6.0-windows\seitsemäsProjekti.csproj.GenerateResource.cache
+C:\Users\ahmed.mamdo\source\repos\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\seitsemäsProjekti\seitsemäsProjekti\obj\Debug\net6.0-windows\seitsemäsProjekti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed.mamdo\source\repos\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\seitsemäsProjekti\seitsemäsProjekti\obj\Debug\net6.0-windows\seitsemäsProjekti.AssemblyInfoInputs.cache
+C:\Users\ahmed.mamdo\source\repos\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\seitsemäsProjekti\seitsemäsProjekti\obj\Debug\net6.0-windows\seitsemäsProjekti.AssemblyInfo.cs
+C:\Users\ahmed.mamdo\source\repos\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\seitsemäsProjekti\seitsemäsProjekti\obj\Debug\net6.0-windows\seitsemäsProjekti.csproj.CoreCompileInputs.cache
+C:\Users\ahmed.mamdo\source\repos\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\seitsemäsProjekti\seitsemäsProjekti\obj\Debug\net6.0-windows\seitsemäsProjekti.dll
+C:\Users\ahmed.mamdo\source\repos\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\seitsemäsProjekti\seitsemäsProjekti\obj\Debug\net6.0-windows\refint\seitsemäsProjekti.dll
+C:\Users\ahmed.mamdo\source\repos\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\seitsemäsProjekti\seitsemäsProjekti\obj\Debug\net6.0-windows\seitsemäsProjekti.pdb
+C:\Users\ahmed.mamdo\source\repos\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\seitsemäsProjekti\seitsemäsProjekti\obj\Debug\net6.0-windows\seitsemäsProjekti.genruntimeconfig.cache
+C:\Users\ahmed.mamdo\source\repos\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\seitsemäsProjekti\seitsemäsProjekti\obj\Debug\net6.0-windows\ref\seitsemäsProjekti.dll
