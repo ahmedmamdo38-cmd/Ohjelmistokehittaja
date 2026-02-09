@@ -1,0 +1,17 @@
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\KolmasProjekti1\KolmasProjekti1\obj\Debug\net10.0-windows\KolmasProjekti1.LaskinFm.resources
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\KolmasProjekti1\KolmasProjekti1\obj\Debug\net10.0-windows\KolmasProjekti1.csproj.GenerateResource.cache
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\KolmasProjekti1\KolmasProjekti1\obj\Debug\net10.0-windows\KolmasProjekti1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\KolmasProjekti1\KolmasProjekti1\obj\Debug\net10.0-windows\KolmasProjekti1.AssemblyInfoInputs.cache
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\KolmasProjekti1\KolmasProjekti1\obj\Debug\net10.0-windows\KolmasProjekti1.AssemblyInfo.cs
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\KolmasProjekti1\KolmasProjekti1\obj\Debug\net10.0-windows\KolmasProjekti1.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\KolmasProjekti1\KolmasProjekti1\obj\Debug\net10.0-windows\KolmasProjekti1.sourcelink.json
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\KolmasProjekti1\KolmasProjekti1\bin\Debug\net10.0-windows\KolmasProjekti1.exe
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\KolmasProjekti1\KolmasProjekti1\bin\Debug\net10.0-windows\KolmasProjekti1.deps.json
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\KolmasProjekti1\KolmasProjekti1\bin\Debug\net10.0-windows\KolmasProjekti1.runtimeconfig.json
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\KolmasProjekti1\KolmasProjekti1\bin\Debug\net10.0-windows\KolmasProjekti1.dll
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\KolmasProjekti1\KolmasProjekti1\bin\Debug\net10.0-windows\KolmasProjekti1.pdb
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\KolmasProjekti1\KolmasProjekti1\obj\Debug\net10.0-windows\KolmasProjekti1.dll
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\KolmasProjekti1\KolmasProjekti1\obj\Debug\net10.0-windows\refint\KolmasProjekti1.dll
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\KolmasProjekti1\KolmasProjekti1\obj\Debug\net10.0-windows\KolmasProjekti1.pdb
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\KolmasProjekti1\KolmasProjekti1\obj\Debug\net10.0-windows\KolmasProjekti1.genruntimeconfig.cache
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\KolmasProjekti1\KolmasProjekti1\obj\Debug\net10.0-windows\ref\KolmasProjekti1.dll

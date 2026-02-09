@@ -1,0 +1,17 @@
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\TokaProjekti\TokaProjekti\bin\Debug\net10.0-windows\TokaProjekti.exe
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\TokaProjekti\TokaProjekti\bin\Debug\net10.0-windows\TokaProjekti.deps.json
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\TokaProjekti\TokaProjekti\bin\Debug\net10.0-windows\TokaProjekti.runtimeconfig.json
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\TokaProjekti\TokaProjekti\bin\Debug\net10.0-windows\TokaProjekti.dll
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\TokaProjekti\TokaProjekti\bin\Debug\net10.0-windows\TokaProjekti.pdb
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\TokaProjekti\TokaProjekti\obj\Debug\net10.0-windows\TokaProjekti.harjoitus2FM.resources
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\TokaProjekti\TokaProjekti\obj\Debug\net10.0-windows\TokaProjekti.csproj.GenerateResource.cache
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\TokaProjekti\TokaProjekti\obj\Debug\net10.0-windows\TokaProjekti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\TokaProjekti\TokaProjekti\obj\Debug\net10.0-windows\TokaProjekti.AssemblyInfoInputs.cache
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\TokaProjekti\TokaProjekti\obj\Debug\net10.0-windows\TokaProjekti.AssemblyInfo.cs
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\TokaProjekti\TokaProjekti\obj\Debug\net10.0-windows\TokaProjekti.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\TokaProjekti\TokaProjekti\obj\Debug\net10.0-windows\TokaProjekti.sourcelink.json
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\TokaProjekti\TokaProjekti\obj\Debug\net10.0-windows\TokaProjekti.dll
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\TokaProjekti\TokaProjekti\obj\Debug\net10.0-windows\refint\TokaProjekti.dll
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\TokaProjekti\TokaProjekti\obj\Debug\net10.0-windows\TokaProjekti.pdb
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\TokaProjekti\TokaProjekti\obj\Debug\net10.0-windows\TokaProjekti.genruntimeconfig.cache
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\TokaProjekti\TokaProjekti\obj\Debug\net10.0-windows\ref\TokaProjekti.dll

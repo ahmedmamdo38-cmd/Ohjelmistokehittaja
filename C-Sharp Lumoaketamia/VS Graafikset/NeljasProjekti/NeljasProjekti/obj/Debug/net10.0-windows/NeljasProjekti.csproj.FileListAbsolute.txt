@@ -1,0 +1,17 @@
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\NeljasProjekti\NeljasProjekti\bin\Debug\net10.0-windows\NeljasProjekti.exe
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\NeljasProjekti\NeljasProjekti\bin\Debug\net10.0-windows\NeljasProjekti.deps.json
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\NeljasProjekti\NeljasProjekti\bin\Debug\net10.0-windows\NeljasProjekti.runtimeconfig.json
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\NeljasProjekti\NeljasProjekti\bin\Debug\net10.0-windows\NeljasProjekti.dll
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\NeljasProjekti\NeljasProjekti\bin\Debug\net10.0-windows\NeljasProjekti.pdb
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\NeljasProjekti\NeljasProjekti\obj\Debug\net10.0-windows\NeljasProjekti.ikaLaskuriDT.resources
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\NeljasProjekti\NeljasProjekti\obj\Debug\net10.0-windows\NeljasProjekti.csproj.GenerateResource.cache
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\NeljasProjekti\NeljasProjekti\obj\Debug\net10.0-windows\NeljasProjekti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\NeljasProjekti\NeljasProjekti\obj\Debug\net10.0-windows\NeljasProjekti.AssemblyInfoInputs.cache
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\NeljasProjekti\NeljasProjekti\obj\Debug\net10.0-windows\NeljasProjekti.AssemblyInfo.cs
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\NeljasProjekti\NeljasProjekti\obj\Debug\net10.0-windows\NeljasProjekti.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\NeljasProjekti\NeljasProjekti\obj\Debug\net10.0-windows\NeljasProjekti.sourcelink.json
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\NeljasProjekti\NeljasProjekti\obj\Debug\net10.0-windows\NeljasProjekti.dll
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\NeljasProjekti\NeljasProjekti\obj\Debug\net10.0-windows\refint\NeljasProjekti.dll
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\NeljasProjekti\NeljasProjekti\obj\Debug\net10.0-windows\NeljasProjekti.pdb
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\NeljasProjekti\NeljasProjekti\obj\Debug\net10.0-windows\NeljasProjekti.genruntimeconfig.cache
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\NeljasProjekti\NeljasProjekti\obj\Debug\net10.0-windows\ref\NeljasProjekti.dll
