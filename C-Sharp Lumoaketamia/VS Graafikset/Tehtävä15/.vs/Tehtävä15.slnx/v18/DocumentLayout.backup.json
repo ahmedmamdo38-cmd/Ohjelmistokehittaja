@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahmed\\source2\\Ohjelmistokehittaja\\C-Sharp Lumoaketamia\\VS Graafikset\\Teht\u00E4v\u00E415\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA305D44-C9A4-4AFA-96A3-CFE2D8E951CA}|Teht\u00E4v\u00E415\\Teht\u00E4v\u00E415.csproj|c:\\users\\ahmed\\source2\\ohjelmistokehittaja\\c-sharp lumoaketamia\\vs graafikset\\teht\u00E4v\u00E415\\teht\u00E4v\u00E415\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA305D44-C9A4-4AFA-96A3-CFE2D8E951CA}|Teht\u00E4v\u00E415\\Teht\u00E4v\u00E415.csproj|solutionrelative:teht\u00E4v\u00E415\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA305D44-C9A4-4AFA-96A3-CFE2D8E951CA}|Teht\u00E4v\u00E415\\Teht\u00E4v\u00E415.csproj|c:\\users\\ahmed\\source2\\ohjelmistokehittaja\\c-sharp lumoaketamia\\vs graafikset\\teht\u00E4v\u00E415\\teht\u00E4v\u00E415\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BA305D44-C9A4-4AFA-96A3-CFE2D8E951CA}|Teht\u00E4v\u00E415\\Teht\u00E4v\u00E415.csproj|solutionrelative:teht\u00E4v\u00E415\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source2\\Ohjelmistokehittaja\\C-Sharp Lumoaketamia\\VS Graafikset\\Teht\u00E4v\u00E415\\Teht\u00E4v\u00E415\\Form1.cs",
+              "RelativeDocumentMoniker": "Teht\u00E4v\u00E415\\Form1.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source2\\Ohjelmistokehittaja\\C-Sharp Lumoaketamia\\VS Graafikset\\Teht\u00E4v\u00E415\\Teht\u00E4v\u00E415\\Form1.cs [Design]",
+              "RelativeToolTip": "Teht\u00E4v\u00E415\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T09:53:42.353Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source2\\Ohjelmistokehittaja\\C-Sharp Lumoaketamia\\VS Graafikset\\Teht\u00E4v\u00E415\\Teht\u00E4v\u00E415\\Form1.cs",
+              "RelativeDocumentMoniker": "Teht\u00E4v\u00E415\\Form1.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source2\\Ohjelmistokehittaja\\C-Sharp Lumoaketamia\\VS Graafikset\\Teht\u00E4v\u00E415\\Teht\u00E4v\u00E415\\Form1.cs",
+              "RelativeToolTip": "Teht\u00E4v\u00E415\\Form1.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAASwB4AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T09:52:30.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

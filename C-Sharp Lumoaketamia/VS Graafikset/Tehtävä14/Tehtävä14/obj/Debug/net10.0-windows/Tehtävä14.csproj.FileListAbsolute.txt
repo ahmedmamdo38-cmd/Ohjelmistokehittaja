@@ -1,0 +1,17 @@
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\Tehtävä14\Tehtävä14\bin\Debug\net10.0-windows\Tehtävä14.exe
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\Tehtävä14\Tehtävä14\bin\Debug\net10.0-windows\Tehtävä14.deps.json
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\Tehtävä14\Tehtävä14\bin\Debug\net10.0-windows\Tehtävä14.runtimeconfig.json
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\Tehtävä14\Tehtävä14\bin\Debug\net10.0-windows\Tehtävä14.dll
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\Tehtävä14\Tehtävä14\bin\Debug\net10.0-windows\Tehtävä14.pdb
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\Tehtävä14\Tehtävä14\obj\Debug\net10.0-windows\Tehtävä14.PaivaKirjaFM.resources
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\Tehtävä14\Tehtävä14\obj\Debug\net10.0-windows\Tehtävä14.csproj.GenerateResource.cache
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\Tehtävä14\Tehtävä14\obj\Debug\net10.0-windows\Tehtävä14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\Tehtävä14\Tehtävä14\obj\Debug\net10.0-windows\Tehtävä14.AssemblyInfoInputs.cache
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\Tehtävä14\Tehtävä14\obj\Debug\net10.0-windows\Tehtävä14.AssemblyInfo.cs
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\Tehtävä14\Tehtävä14\obj\Debug\net10.0-windows\Tehtävä14.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\Tehtävä14\Tehtävä14\obj\Debug\net10.0-windows\Tehtävä14.sourcelink.json
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\Tehtävä14\Tehtävä14\obj\Debug\net10.0-windows\Tehtävä14.dll
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\Tehtävä14\Tehtävä14\obj\Debug\net10.0-windows\refint\Tehtävä14.dll
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\Tehtävä14\Tehtävä14\obj\Debug\net10.0-windows\Tehtävä14.pdb
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\Tehtävä14\Tehtävä14\obj\Debug\net10.0-windows\Tehtävä14.genruntimeconfig.cache
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\Tehtävä14\Tehtävä14\obj\Debug\net10.0-windows\ref\Tehtävä14.dll

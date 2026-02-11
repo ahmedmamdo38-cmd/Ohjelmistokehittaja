@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Tehtävä16/1.0.0": {
+        "runtime": {
+          "Tehtävä16.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tehtävä16/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
