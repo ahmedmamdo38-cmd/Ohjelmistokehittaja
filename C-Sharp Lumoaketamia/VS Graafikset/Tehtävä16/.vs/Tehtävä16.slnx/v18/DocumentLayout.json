@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\ahmed\\source2\\Ohjelmistokehittaja\\C-Sharp Lumoaketamia\\VS Graafikset\\Teht\u00E4v\u00E416\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B755539C-5BD4-4F78-877D-00EEED927D9C}|Teht\u00E4v\u00E416\\Teht\u00E4v\u00E416.csproj|c:\\users\\ahmed\\source2\\ohjelmistokehittaja\\c-sharp lumoaketamia\\vs graafikset\\teht\u00E4v\u00E416\\teht\u00E4v\u00E416\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B755539C-5BD4-4F78-877D-00EEED927D9C}|Teht\u00E4v\u00E416\\Teht\u00E4v\u00E416.csproj|solutionrelative:teht\u00E4v\u00E416\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A06AC520-72BC-9DC0-4E63-36EC43773D84}|Teht\u00E4v\u00E416\\Teht\u00E4v\u00E416.csproj|c:\\users\\ahmed\\source2\\ohjelmistokehittaja\\c-sharp lumoaketamia\\vs graafikset\\teht\u00E4v\u00E416\\teht\u00E4v\u00E416\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A06AC520-72BC-9DC0-4E63-36EC43773D84}|Teht\u00E4v\u00E416\\Teht\u00E4v\u00E416.csproj|solutionrelative:teht\u00E4v\u00E416\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B755539C-5BD4-4F78-877D-00EEED927D9C}|Teht\u00E4v\u00E416\\Teht\u00E4v\u00E416.csproj|c:\\users\\ahmed\\source2\\ohjelmistokehittaja\\c-sharp lumoaketamia\\vs graafikset\\teht\u00E4v\u00E416\\teht\u00E4v\u00E416\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B755539C-5BD4-4F78-877D-00EEED927D9C}|Teht\u00E4v\u00E416\\Teht\u00E4v\u00E416.csproj|solutionrelative:teht\u00E4v\u00E416\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A06AC520-72BC-9DC0-4E63-36EC43773D84}|Teht\u00E4v\u00E416\\Teht\u00E4v\u00E416.csproj|c:\\users\\ahmed\\source2\\ohjelmistokehittaja\\c-sharp lumoaketamia\\vs graafikset\\teht\u00E4v\u00E416\\teht\u00E4v\u00E416\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06AC520-72BC-9DC0-4E63-36EC43773D84}|Teht\u00E4v\u00E416\\Teht\u00E4v\u00E416.csproj|solutionrelative:teht\u00E4v\u00E416\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,16 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -52,6 +44,14 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-11T10:01:10.931Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             }
           ]
         }
