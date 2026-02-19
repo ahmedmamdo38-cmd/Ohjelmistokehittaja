@@ -1,0 +1,17 @@
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\Tehtävä9\Tehtävä9\obj\Debug\net10.0-windows\Tehtävä9.Form1.resources
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\Tehtävä9\Tehtävä9\obj\Debug\net10.0-windows\Tehtävä9.csproj.GenerateResource.cache
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\Tehtävä9\Tehtävä9\obj\Debug\net10.0-windows\Tehtävä9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\Tehtävä9\Tehtävä9\obj\Debug\net10.0-windows\Tehtävä9.AssemblyInfoInputs.cache
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\Tehtävä9\Tehtävä9\obj\Debug\net10.0-windows\Tehtävä9.AssemblyInfo.cs
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\Tehtävä9\Tehtävä9\obj\Debug\net10.0-windows\Tehtävä9.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\Tehtävä9\Tehtävä9\obj\Debug\net10.0-windows\Tehtävä9.sourcelink.json
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\Tehtävä9\Tehtävä9\bin\Debug\net10.0-windows\Tehtävä9.exe
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\Tehtävä9\Tehtävä9\bin\Debug\net10.0-windows\Tehtävä9.deps.json
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\Tehtävä9\Tehtävä9\bin\Debug\net10.0-windows\Tehtävä9.runtimeconfig.json
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\Tehtävä9\Tehtävä9\bin\Debug\net10.0-windows\Tehtävä9.dll
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\Tehtävä9\Tehtävä9\bin\Debug\net10.0-windows\Tehtävä9.pdb
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\Tehtävä9\Tehtävä9\obj\Debug\net10.0-windows\Tehtävä9.dll
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\Tehtävä9\Tehtävä9\obj\Debug\net10.0-windows\refint\Tehtävä9.dll
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\Tehtävä9\Tehtävä9\obj\Debug\net10.0-windows\Tehtävä9.pdb
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\Tehtävä9\Tehtävä9\obj\Debug\net10.0-windows\Tehtävä9.genruntimeconfig.cache
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\Tehtävä9\Tehtävä9\obj\Debug\net10.0-windows\ref\Tehtävä9.dll
