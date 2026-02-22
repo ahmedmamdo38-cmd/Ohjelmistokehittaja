@@ -1,0 +1,17 @@
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\Tehtävä12\Tehtävä12\bin\Debug\net10.0-windows\Tehtävä12.exe
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\Tehtävä12\Tehtävä12\bin\Debug\net10.0-windows\Tehtävä12.deps.json
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\Tehtävä12\Tehtävä12\bin\Debug\net10.0-windows\Tehtävä12.runtimeconfig.json
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\Tehtävä12\Tehtävä12\bin\Debug\net10.0-windows\Tehtävä12.dll
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\Tehtävä12\Tehtävä12\bin\Debug\net10.0-windows\Tehtävä12.pdb
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\Tehtävä12\Tehtävä12\obj\Debug\net10.0-windows\Tehtävä12.VastausLomakeFM.resources
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\Tehtävä12\Tehtävä12\obj\Debug\net10.0-windows\Tehtävä12.csproj.GenerateResource.cache
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\Tehtävä12\Tehtävä12\obj\Debug\net10.0-windows\Tehtävä12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\Tehtävä12\Tehtävä12\obj\Debug\net10.0-windows\Tehtävä12.AssemblyInfoInputs.cache
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\Tehtävä12\Tehtävä12\obj\Debug\net10.0-windows\Tehtävä12.AssemblyInfo.cs
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\Tehtävä12\Tehtävä12\obj\Debug\net10.0-windows\Tehtävä12.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\Tehtävä12\Tehtävä12\obj\Debug\net10.0-windows\Tehtävä12.sourcelink.json
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\Tehtävä12\Tehtävä12\obj\Debug\net10.0-windows\Tehtävä12.dll
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\Tehtävä12\Tehtävä12\obj\Debug\net10.0-windows\refint\Tehtävä12.dll
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\Tehtävä12\Tehtävä12\obj\Debug\net10.0-windows\Tehtävä12.pdb
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\Tehtävä12\Tehtävä12\obj\Debug\net10.0-windows\Tehtävä12.genruntimeconfig.cache
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\Tehtävä12\Tehtävä12\obj\Debug\net10.0-windows\ref\Tehtävä12.dll
