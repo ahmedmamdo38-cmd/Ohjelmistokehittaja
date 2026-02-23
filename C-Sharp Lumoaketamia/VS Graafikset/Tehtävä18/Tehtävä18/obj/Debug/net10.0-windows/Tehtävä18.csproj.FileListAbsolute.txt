@@ -1,0 +1,7 @@
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\Tehtävä18\Tehtävä18\obj\Debug\net10.0-windows\Tehtävä18.AvainhenkilotFM.resources
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\Tehtävä18\Tehtävä18\obj\Debug\net10.0-windows\Tehtävä18.csproj.GenerateResource.cache
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\Tehtävä18\Tehtävä18\obj\Debug\net10.0-windows\Tehtävä18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\Tehtävä18\Tehtävä18\obj\Debug\net10.0-windows\Tehtävä18.AssemblyInfoInputs.cache
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\Tehtävä18\Tehtävä18\obj\Debug\net10.0-windows\Tehtävä18.AssemblyInfo.cs
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\Tehtävä18\Tehtävä18\obj\Debug\net10.0-windows\Tehtävä18.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\Tehtävä18\Tehtävä18\obj\Debug\net10.0-windows\Tehtävä18.sourcelink.json
