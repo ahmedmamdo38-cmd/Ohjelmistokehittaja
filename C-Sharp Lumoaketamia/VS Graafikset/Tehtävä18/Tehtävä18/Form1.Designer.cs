@@ -91,6 +91,7 @@
             vastuuhloCB.Name = "vastuuhloCB";
             vastuuhloCB.Size = new Size(324, 53);
             vastuuhloCB.TabIndex = 4;
+            vastuuhloCB.SelectedIndexChanged += vastuuhloCB_SelectedIndexChanged;
             // 
             // katuosoiteLB
             // 
