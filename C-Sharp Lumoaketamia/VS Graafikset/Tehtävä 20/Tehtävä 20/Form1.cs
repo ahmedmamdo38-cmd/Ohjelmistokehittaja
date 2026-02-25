@@ -4,6 +4,8 @@ namespace Tehtävä_20
 {
     public partial class Form1 : Form
     {
+
+        OPISKELIJA opiskelija = new OPISKELIJA();
         public Form1()
         {
             InitializeComponent();
@@ -11,7 +13,9 @@ namespace Tehtävä_20
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            TietotauluDG.DataSource = OPISKELIJA.haeOpiskelijat();
+            TietotauluDG.DataSource = opiskelija.haeOpiskelijat();
+            TietotauluDG.AutoResizeColumns();
+            TietotauluDG.DefaultCellStyle.Font = new Font("Tahoma", 15);
         }
 
         private void tyhjennaBT_Click(object sender, EventArgs e)
@@ -39,7 +43,7 @@ namespace Tehtävä_20
             }
             else
             {
-                Boolean lisaaAsiakas = OPISKELIJA.lisaaOpiskelija(enimi, snimi, puhelin, email, oNro);
+                Boolean lisaaAsiakas = opiskelija.lisaaOpiskelija(enimi, snimi, puhelin, email, oNro);
                 if (lisaaAsiakas)
                 {
                     MessageBox.Show("Uusi opiskelija lisätty onnistuneesti", "Opiskelijan lisäys", MessageBoxButtons.OK, MessageBoxIcon.Error);
@@ -50,7 +54,7 @@ namespace Tehtävä_20
                 }
             }
 
-            TietotauluDG.DataSource = OPISKELIJA.haeOpiskelija();
+            TietotauluDG.DataSource = opiskelija.haeOpiskelijat();
         }
 
         private void paivitaBT_Click(object sender, EventArgs e)
@@ -60,7 +64,7 @@ namespace Tehtävä_20
             String puhelin = phoneTB.Text;
             String email = emailTB.Text;
             int oNro = Int32.Parse(opiskelijaNroTB.Text);
-            int oid = int.Parse(idTB.Text);
+            int oid = Int32.Parse(idTB.Text);
 
             if (oid.Equals("") || enimi.Trim().Equals("") || snimi.Trim().Equals("") || puhelin.Trim().Equals("") || email.Trim().Equals("") || oNro.Equals(""))
             {
@@ -69,7 +73,7 @@ namespace Tehtävä_20
             }
             else
             {
-                Boolean lisaaAsiakas = OPISKELIJA.muokkaOpiskelijaa(oid, enimi, snimi, puhelin, email, oNro);
+                Boolean lisaaAsiakas = opiskelija.muokkaOpiskelijaa(oid, enimi, snimi, puhelin, email, oNro);
                 if (lisaaAsiakas)
                 {
                     MessageBox.Show("Opiskelija päivitetty onnistuneesti ", "Opiskelijan päivitys", MessageBoxButtons.OK, MessageBoxIcon.Error);
@@ -96,9 +100,9 @@ namespace Tehtävä_20
         private void poistaBT_Click(object sender, EventArgs e)
         {
             String ktunnus = idTB.Text;
-            if (OPISKELIJA.poistaOpikelija(ktunnus))
+            if (opiskelija.poistaOpiskelija(ktunnus))
             {
-                TietotauluDG.DataSource = OPISKELIJA.haeOpiskelijat();
+                TietotauluDG.DataSource = opiskelija.haeOpiskelijat();
                 MessageBox.Show("Opiskelija poistettu onnistuneesti ", "Opiskelijan poisto", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
             else

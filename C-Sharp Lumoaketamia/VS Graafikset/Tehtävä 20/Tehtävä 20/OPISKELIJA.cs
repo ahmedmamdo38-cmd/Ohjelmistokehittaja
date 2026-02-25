@@ -14,7 +14,7 @@ namespace Tehtävä_20
         {
             MySqlCommand komento = new MySqlCommand();
             String lisayskysely = "INSERT INTO yhteystiedot " +
-                "(etunimi, sukunimi, puhelin, sahkoposti, opiskelojanumero) " +
+                "(etunimi, sukunimi, puhelin, sahkoposti, opiskelijanumero) " +
                 "VALUES (@enm, @snm, @puh, @eml, @ono); ";
             komento.CommandText = lisayskysely;
             komento.Connection = yhteys.otaYhteys();
@@ -44,7 +44,7 @@ namespace Tehtävä_20
 
         public DataTable haeOpiskelijat()
         {
-            MySqlCommand komento = new MySqlCommand("SELECT iod, etunimi, sukunimi, puhelin, sahkoposti, opiskelijanumero FROM yhteystiedot", yhteys.otaYhteys());
+            MySqlCommand komento = new MySqlCommand("SELECT Oid, etunimi, sukunimi, puhelin, sahkoposti, opiskelijanumero FROM yhteystiedot", yhteys.otaYhteys());
             MySqlDataAdapter adapteri = new MySqlDataAdapter();
             DataTable taulu = new DataTable();
 
@@ -58,9 +58,9 @@ namespace Tehtävä_20
         public bool muokkaOpiskelijaa(int oid, String enimi, String snimi, String puh, String email, int onro)
         {
             MySqlCommand komento = new MySqlCommand();
-            String paivityskysely = "UPDATE `yhteystiedot` SET `Etunimi `= @enm," +
-                "`Sukunimi`= @snm,`puhelin`= @puh, `sahkoposti`= @eml, `opiskelijanumero`= @ono" +
-                "WHERE oid = @oid";
+            String paivityskysely = "UPDATE `yhteystiedot` SET `etunimi`= @enm," +
+                "`sukunimi`= @snm,`puhelin`= @puh, `sahkoposti`= @eml, `opiskelijanumero`= @ono " +
+                "WHERE Oid = @oid";
 
             komento.CommandText = paivityskysely;
             komento.Connection = yhteys.otaYhteys();
@@ -90,7 +90,7 @@ namespace Tehtävä_20
         public bool poistaOpiskelija(String ktunnus)
         {
             MySqlCommand komento = new MySqlCommand();
-            String poistokysely = "DELETE FROM yhteystiedot WHERE oid = @ktu";
+            String poistokysely = "DELETE FROM yhteystiedot WHERE Oid = @ktu";
             komento.CommandText = poistokysely;
             komento.Connection = yhteys.otaYhteys();
 

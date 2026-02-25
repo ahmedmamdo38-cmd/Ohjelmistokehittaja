@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tehtävä 20")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+325dcba73eece69f072e154c3b60820bfec1a1a0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7112b29b1ee7fdbac9a7afe54fe720f93d3d0511")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tehtävä 20")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tehtävä 20")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
