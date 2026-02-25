@@ -16,10 +16,11 @@ namespace Tehtävä18
         //private void label2_Click(object sender, EventArgs e)
         private void AvainhenkilotFM_Load(object sender, EventArgs e)
         {
+            taytaVastuuHenkilotTaulukko();
             taytaOppilaitosTaulukko();
             oppilaitoksetCB.DataSource = oppilaitos;
             oppilaitoksetCB.DisplayMember = "ONimi";
-            taytaVastuuHenkilotTaulukko();
+
         }
 
         private void oppilaitoksetCB_SelectedIndexChanged(object sender, EventArgs e)
@@ -33,16 +34,11 @@ namespace Tehtävä18
 
             yhteys = vastuuHenkilot.Select("OID = " + viite).CopyToDataTable();
             vastuuhloCB.DataSource = yhteys;
-            vastuuhloCB.DisplayMember = "VNimi";
+            vastuuhloCB.DisplayMember = "ONimi";
         }
 
-        private void vastuuhloCB_TextChanged(object sender, EventArgs e)
-        {
-            titteliLB.Text = yhteys.Rows[vastuuhloCB.SelectedIndex]["VTitteli"].ToString();
-            sijantiLB.Text = yhteys.Rows[vastuuhloCB.SelectedIndex]["VSojainti"].ToString();
-            emailLB.Text = yhteys.Rows[vastuuhloCB.SelectedIndex]["VSahkoposti"].ToString();
-            phoneLB.Text = yhteys.Rows[vastuuhloCB.SelectedIndex]["VPuhelin"].ToString();
-        }
+       // private void vastuuhloCB_TextChanged(object sender, EventArgs e)
+        //{}
 
 
         private void taytaOppilaitosTaulukko()
@@ -67,7 +63,7 @@ namespace Tehtävä18
             vastuuHenkilot.Columns.Add("OID", typeof(int));
             vastuuHenkilot.Columns.Add("ONimi");
             vastuuHenkilot.Columns.Add("OTitteli");
-            vastuuHenkilot.Columns.Add("OSijanti");
+            vastuuHenkilot.Columns.Add("OSijainti");
             vastuuHenkilot.Columns.Add("OSahkoposti");
             vastuuHenkilot.Columns.Add("OPuhelin");
 
@@ -92,6 +88,15 @@ namespace Tehtävä18
             vastuuHenkilot.Rows.Add(4, "Anne Vuorinen", "Johtaja", "Yritys- ja elinvoimapalvelut", "anne.vuorinen@keuda.fi", "050 415 0974");
             vastuuHenkilot.Rows.Add(4, "Hanna Nyrönen", "Viestintä- ja markkinointipäällikkö", "Viestintäpalvelut", "hanna.nyronen@keuda.fi", "040 521 8428");
             vastuuHenkilot.Rows.Add(4, "Maarit Flinck", "Asianhallintapäällikkö", "Hallinto- ja johtamispalvelut", "maarit.flinck@keuda.fi", "0500 837 357");
+        }
+
+        private void vastuuhloCB_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            titteliLB.Text = yhteys.Rows[vastuuhloCB.SelectedIndex]["OTitteli"].ToString();
+            sijantiLB.Text = yhteys.Rows[vastuuhloCB.SelectedIndex]["OSijainti"].ToString();
+            emailLB.Text = yhteys.Rows[vastuuhloCB.SelectedIndex]["OSahkoposti"].ToString();
+            phoneLB.Text = yhteys.Rows[vastuuhloCB.SelectedIndex]["OPuhelin"].ToString();
+
         }
 
         //private void label2_Click(object sender, EventArgs e)

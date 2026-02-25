@@ -5,3 +5,13 @@ C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\Te
 C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\Tehtävä18\Tehtävä18\obj\Debug\net10.0-windows\Tehtävä18.AssemblyInfo.cs
 C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\Tehtävä18\Tehtävä18\obj\Debug\net10.0-windows\Tehtävä18.csproj.CoreCompileInputs.cache
 C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\Tehtävä18\Tehtävä18\obj\Debug\net10.0-windows\Tehtävä18.sourcelink.json
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\Tehtävä18\Tehtävä18\bin\Debug\net10.0-windows\Tehtävä18.exe
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\Tehtävä18\Tehtävä18\bin\Debug\net10.0-windows\Tehtävä18.deps.json
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\Tehtävä18\Tehtävä18\bin\Debug\net10.0-windows\Tehtävä18.runtimeconfig.json
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\Tehtävä18\Tehtävä18\bin\Debug\net10.0-windows\Tehtävä18.dll
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\Tehtävä18\Tehtävä18\bin\Debug\net10.0-windows\Tehtävä18.pdb
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\Tehtävä18\Tehtävä18\obj\Debug\net10.0-windows\Tehtävä18.dll
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\Tehtävä18\Tehtävä18\obj\Debug\net10.0-windows\refint\Tehtävä18.dll
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\Tehtävä18\Tehtävä18\obj\Debug\net10.0-windows\Tehtävä18.pdb
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\Tehtävä18\Tehtävä18\obj\Debug\net10.0-windows\Tehtävä18.genruntimeconfig.cache
+C:\Users\ahmed\source2\Ohjelmistokehittaja\C-Sharp Lumoaketamia\VS Graafikset\Tehtävä18\Tehtävä18\obj\Debug\net10.0-windows\ref\Tehtävä18.dll
